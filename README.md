@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KASHWAY
 - 👀 I’m interested in programming, gaming, cooking and working out.
-- 🌱 I’m currently learning Java Language
-- 💞️ I’m currently working in PHP/CSS/JS Languages
+- 🌱 I’m currently learning React, TypeScript
+- 💞️ I’m currently working in PHP/JS/TS Languages
 - 📫 Reach me on Discord - Kashway#9451
 
 <!---
